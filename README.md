@@ -52,3 +52,20 @@ This project focuses on analyzing customer churn in a telecommunications company
 
 ## Conclusion
 This project helped me understand customer behavior, perform data cleaning, conduct exploratory data analysis, and create meaningful visualizations using Python.
+
+## Data Visualizations 
+
+### 1. Customer Churn Analysis 
+![Customer Churn](customer_churn.png)
+
+### 2. Gender-Wise Churn 
+![Gender Churn](gender_wise_churn.png)
+
+### 3. Contract-Wise Churn 
+![Contract Churn ](Contract-wise_churn.png)
+
+### 4. Correlation Heatmap
+![Correlation Heatmap](Customer Churn Correlation.png)
+
+### 5. Monthly Charges Analysis 
+![Monthly Charges](Monthly_wise_churn.png)
