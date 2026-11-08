@@ -65,7 +65,7 @@ This project helped me understand customer behavior, perform data cleaning, cond
 ![Contract Churn ](Contract-wise_churn.png)
 
 ### 4. Correlation Heatmap
-![Correlation Heatmap](Customer Churn Correlation.png)
+![Correlation Heatmap](<Customer Churn Correlation.png)
 
 ### 5. Monthly Charges Analysis 
-![Monthly Charges](Monthly_wise_churn.png)
+![Monthly Charges](Monthly_wise_churn.png>)
